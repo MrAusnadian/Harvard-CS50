@@ -12,9 +12,7 @@ Think of the HTML as a document object model (DOM) -- The tree of all the elemen
 
 <img src="00%20-%20HTML%20and%20CSS/images/dom.png">
 
----
-
-Some example HTML documents:
+### Some example HTML documents:
 
 - <a href="./00 - HTML and CSS/00 - Hello, world.html">Hello, world!</a>
 - <a href="./00 - HTML and CSS/01 - Headings.html">Headings</a>
@@ -23,3 +21,13 @@ Some example HTML documents:
 - <a href="./00 - HTML and CSS/04 - Link.html">Link</a>
 - <a href="./00 - HTML and CSS/05 - Table.html">Table</a>
 - <a href="./00 - HTML and CSS/06 - Form.html">Form</a>
+
+#### Some info about forms
+
+There are several different types of form inputs, such as:
+- Inputs for text, passwords, etc
+- Radio buttons for selecting an option from several choices
+- Checkboxes for selecting n number of choices
+- An input associated with a datalist for selecting an option from a dropdown
+- And much more!
+
