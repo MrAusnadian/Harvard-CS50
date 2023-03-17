@@ -20,3 +20,5 @@ Some example HTML documents:
 - <a href="./00 - HTML and CSS/01 - Headings.html">Headings</a>
 - <a href="./00 - HTML and CSS/02 - Lists.html">Lists</a>
 - <a href="./00 - HTML and CSS/03 - Image.html">Image</a>
+- <a href="./00 - HTML and CSS/04 - Link.html">Link</a>
+  
