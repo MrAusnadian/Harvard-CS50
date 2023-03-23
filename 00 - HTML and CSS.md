@@ -97,3 +97,28 @@ div {
   }
 }
 ```
+
+Yes another feature is inheritance:
+```css
+%message {
+  font-family: monospace;
+  font-size: 18px;
+  font-weight: bold;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 20px;
+}
+.success {
+  @extend %message;
+  background-color: green;
+}
+.warning {
+  @extend %message;
+  background-color: orange;
+}
+.error {
+  @extend %message;
+  background-color: red;
+  color: white;
+}
+```
