@@ -74,3 +74,26 @@ Similar to Flexbox CSS. See <a href="./00 - HTML and CSS/14 - Grid.html">Grid</a
 ## SCSS
 
 The term SCSS is an acronym for Sassy Cascading Style Sheets. It is basically a more advanced and evolved variant of the CSS language. Natalie Weizenbaum and Chris Eppstein created it, and Hampton Catlin designed it. It comes with more advanced features- thus often called Sassy CSS.
+
+Example of how to compile SCSS:
+`sass variables.scss:variables.css`
+
+To install SCSS:
+`npm -g install scss`
+
+Watch an SCSS file:
+`sass --watch variables.scss:variables.css`
+
+Another feature is CSS nesting, e.g.
+```css
+div {
+  font-size: 18px;
+
+  p {
+    color: blue;
+  }
+  ul {
+    color: green;
+  }
+}
+```
