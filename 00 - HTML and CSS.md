@@ -29,6 +29,7 @@ Think of the HTML as a document object model (DOM) -- The tree of all the elemen
 - <a href="./00 - HTML and CSS/12 - Responsive.html">Responsive</a>
 - <a href="./00 - HTML and CSS/13 - Flexbox.html">Flexbox</a>
 - <a href="./00 - HTML and CSS/14 - Grid.html">Grid</a>
+- <a href="./00 - HTML and CSS/15 - Bootstrap.html">Bootstrap example</a>
 
 #### Some info about forms
 
