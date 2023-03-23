@@ -3,6 +3,10 @@ h1 {
     text-align: center;
 }
 
+#foo {
+    color: red;
+}
+
 div {
     background-color: orange;
     width: 200px;
