@@ -21,6 +21,8 @@ Think of the HTML as a document object model (DOM) -- The tree of all the elemen
 - <a href="./00 - HTML and CSS/04 - Link.html">Link</a>
 - <a href="./00 - HTML and CSS/05 - Table.html">Table</a>
 - <a href="./00 - HTML and CSS/06 - Form.html">Form</a>
+- <a href="./00 - HTML and CSS/07 - CSS.html">CSS Basics</a>
+- <a href="./00 - HTML and CSS/08 - Size.html">Size</a>
 
 #### Some info about forms
 
