@@ -1,0 +1,11 @@
+$color: blue;
+
+ul > li {
+    color: $color;
+    font-size: 18px;
+}
+
+ol > li {
+    color: $color;
+    font-size: 24px;
+}

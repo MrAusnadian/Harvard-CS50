@@ -40,6 +40,8 @@ There are several different types of form inputs, such as:
 - An input associated with a datalist for selecting an option from a dropdown
 - And much more!
 
+## CSS
+
 ### CSS Specificity
 
 1. Inline (e.g. `<p style="color: red">`)
@@ -69,3 +71,6 @@ Useful for responsive design with multiple elements. For example, you can have t
 #### Grid CSS
 Similar to Flexbox CSS. See <a href="./00 - HTML and CSS/14 - Grid.html">Grid</a> for an example of grid positioning.
 
+## SCSS
+
+The term SCSS is an acronym for Sassy Cascading Style Sheets. It is basically a more advanced and evolved variant of the CSS language. Natalie Weizenbaum and Chris Eppstein created it, and Hampton Catlin designed it. It comes with more advanced features- thus often called Sassy CSS.
