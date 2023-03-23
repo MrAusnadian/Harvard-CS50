@@ -3,7 +3,7 @@ h1 {
     text-align: center;
 }
 
-#foo {
+.baz {
     color: red;
 }
 
@@ -14,3 +14,4 @@ div {
     padding: 20px;
     margin: 20px;
 }
+

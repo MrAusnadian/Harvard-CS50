@@ -33,3 +33,10 @@ There are several different types of form inputs, such as:
 - An input associated with a datalist for selecting an option from a dropdown
 - And much more!
 
+### CSS Specificity
+
+1. Inline (e.g. `<p style="color: red">`)
+2. ID (e.g. `<p id="red">`)
+3. Class (e.g. `<p class="red">`)
+4. Type (e.g. `<style>p { color: red }</style>`)
+
