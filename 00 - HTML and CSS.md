@@ -23,6 +23,12 @@ Think of the HTML as a document object model (DOM) -- The tree of all the elemen
 - <a href="./00 - HTML and CSS/06 - Form.html">Form</a>
 - <a href="./00 - HTML and CSS/07 - CSS.html">CSS Basics</a>
 - <a href="./00 - HTML and CSS/08 - Size.html">Size</a>
+- <a href="./00 - HTML and CSS/09 - Font.html">Font</a>
+- <a href="./00 - HTML and CSS/10 - Descendant.html">Descendant</a>
+- <a href="./00 - HTML and CSS/11 - Hover.html">Hover</a>
+- <a href="./00 - HTML and CSS/12 - Responsive.html">Responsive</a>
+- <a href="./00 - HTML and CSS/13 - Flexbox.html">Flexbox</a>
+- <a href="./00 - HTML and CSS/14 - Grid.html">Grid</a>
 
 #### Some info about forms
 
@@ -39,4 +45,26 @@ There are several different types of form inputs, such as:
 2. ID (e.g. `<p id="red">`)
 3. Class (e.g. `<p class="red">`)
 4. Type (e.g. `<style>p { color: red }</style>`)
+
+### CSS Selectors
+
+<img src="00%20-%20HTML%20and%20CSS/images/selectors.png">
+
+### CSS Pseudo Classes
+
+`div:hover` is an example of a pseudo class and activates on hover.
+
+### CSS Responsiveness
+
+This meta tag will help you determine how your page looks on mobile:
+`<meta name="viewport" content="width=device-width, initial-scale=1.0">`
+
+Bootstrap is a great example of a responsive CSS framework -- https://getbootstrap.com
+
+#### Flexbox CSS
+
+Useful for responsive design with multiple elements. For example, you can have them wrap around the screen provided. See <a href="./00 - HTML and CSS/13 - Flexbox.html">Flexbox</a> for an example of Flexbox CSS.
+
+#### Grid CSS
+Similar to Flexbox CSS. See <a href="./00 - HTML and CSS/14 - Grid.html">Grid</a> for an example of grid positioning.
 
